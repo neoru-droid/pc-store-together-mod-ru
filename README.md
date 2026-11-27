@@ -3,9 +3,10 @@
 Мод-меню StoreOS на русском, стартовое сохранение карьеры на 250 000 $ и таблица Cheat Engine для **PC Store Together** (сборка `26903133`, Windows и Steam Deck).
 
 ## Скачать
-- **[Мод-меню StoreOS v1.0 на Boosty](https://boosty.to/cd_tixo/posts/6a6f1442-48c9-4107-94a0-0d108e2b061b?utm_source=github&utm_medium=readme&utm_campaign=pc_store_together)** (первые 48 часов в раннем доступе от `120 ₽`, откроется всем **28 ноября 2026 в 18:00 UTC+10**)
+- **[Мод-меню StoreOS v1.0 на Boosty](https://boosty.to/cd_tixo/posts/6a6f1442-48c9-4107-94a0-0d108e2b061b)** (ранний доступ: подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`, откроется всем **28 ноября 2026 в 18:00 UTC+10**)
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/pc-store-together-mod-ru/releases)**
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
+- **Обновления и новые релизы в Telegram:** [@neoru_droid](https://t.me/neoru_droid)
 
 ![PC Store Together - Обложка](docs/screenshots/cover_wide.png)
 
@@ -32,6 +33,6 @@
 2. **Steam Deck / Linux:** выполните `sh install-steamdeck.sh`.
 3. **Откат:** нажмите «Удалить мод-меню» в установщике (или `sh install-steamdeck.sh --uninstall`).
 
-Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=hub) · [профиль на GitHub](https://github.com/neoru-droid)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo) · [Telegram](https://t.me/neoru_droid) · [профиль на GitHub](https://github.com/neoru-droid)
 
 Лицензия: [MIT](LICENSE)
